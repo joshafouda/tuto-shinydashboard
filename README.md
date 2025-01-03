@@ -243,8 +243,6 @@ The layout of this body combines rows with various boxes and tabs to organize th
 ### **Summary**  
 The **body** of a shinydashboard application provides a flexible canvas for organizing content. By using rows, boxes, and tabs, you can create an intuitive and visually balanced layout for your dashboard. This design ensures that your audience can easily navigate through the app and access the information they need.  
 
-In the next section, we’ll explore how to make the dashboard interactive by connecting the body’s content to user inputs and outputs using Shiny’s server logic!  
-
 
 ## **Section 4: Building a Sales Dashboard in Practice**  
 
